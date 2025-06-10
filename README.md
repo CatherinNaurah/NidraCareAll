@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c23713cf-1b83-444e-8ef0-21a0b99cafd1)# ID Team : CC25 - CF149
+# ID Team : CC25 - CF149
 # NidraCare
 NidraCare adalah aplikasi web berbasis Machine Learning yang dirancang untuk membantu pengguna memprediksi potensi gangguan tidur berdasarkan data input seperti durasi tidur, gejala fisik/mental, dan gaya hidup. Aplikasi ini bertujuan meningkatkan kesadaran dan kualitas tidur pengguna sebelum mereka melakukan konsultasi medis.
 

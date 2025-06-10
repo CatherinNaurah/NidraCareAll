@@ -1,6 +1,7 @@
 # ID Team : CC25 - CF149
 # NidraCare
-NidraCare adalah aplikasi web berbasis Machine Learning yang dirancang untuk membantu pengguna memprediksi potensi gangguan tidur berdasarkan data input seperti durasi tidur, gejala fisik/mental, dan gaya hidup. Aplikasi ini bertujuan meningkatkan kesadaran dan kualitas tidur pengguna sebelum mereka melakukan konsultasi medis.
+Kualitas tidur yang buruk berdampak signifikan terhadap produktivitas, kesehatan mental, dan kesejahteraan seseorang. Menurut Sari et al. (2022), sektor industri memiliki kecenderungan penurunan kualitas tidur yang berpotensi menurunkan produktivitas. Selain itu, banyak individu mengalami gangguan seperti insomnia, sleep apnea, atau pola tidur tidak teratur tanpa memahami jenis gangguannya. Chen M. et al. (2022) juga menekankan pentingnya aktivitas fisik dan positive thinking untuk menjaga kualitas tidur. 
+Berdasarkan permasalahan tersebut, tim kami mengembangkan NidraCare, sebuah aplikasi web berbasis Machine Learning yang memprediksi potensi gangguan tidur berdasarkan input pengguna seperti durasi tidur, gejala fisik/mental, dan gaya hidup.Aplikasi ini memanfaatkan model klasifikasi sederhana untuk mengelompokkan kondisi tidur menjadi Normal, Insomnia, atau Sleep Apnea, serta memberikan saran perbaikan pola tidur. NidraCare hadir sebagai solusi awal yang mudah diakses sebelum konsultasi medis.
 
 ## Fitur Utama 
 - **Pengumpulan data input pengguna** terkait pola tidur, kondisi fisik/mental, dan gaya hidup.

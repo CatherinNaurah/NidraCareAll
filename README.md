@@ -21,18 +21,8 @@ Deskripsi:
 Frontend memberikan pengalaman pengguna yang mudah dan responsif, memungkinkan input data pola tidur serta menampilkan hasil analisis dan rekomendasi dari backend.
 
 ## Latar Belakang
-Tidur adalah satu kebutuhan yang sangat berpengaruh dalam kualitas hidup manusia terutama dalam jangka panjang. Kualitas tidur yang buruk tentunya akan mengakibatkan menurunnya kualitas hidup seseorang baik dalam segi produktivitas, kesehatan mental dan banyak hal lainnya. Berdasarkan penelitian oleh Sari et al. (2022) pada sektor industri berpotensi besar menunjukkan kecenderungan penurunan kualitas tidur serta menurunkan produktivitas. Banyak orang mengalami gejala tidur seperti insomnia, sleep apnea, atau pola tidur tidak teratur tanpa menyadari jenis gangguan yang dialaminya atau cara menanganinya. Berdasarkan penelitian oleh Chen M, et al. (2022) bahwa integrasi kegiatan fisik dan mempertahankan positive thinking penting dalam menjaga kualitas tidur. 
-Berdasarkan masalah tersebut, tim kami mengembangkan sebuah web aplikasi berbasis Machine Learning yang dapat memprediksi potensi gangguan tidur berdasarkan input data pengguna, seperti durasi tidur, gejala fisik atau mental yang dirasakan, dan gaya hidup sehari-hari. Dengan mengadopsi design thinking, kami melakukan pemetaan kebutuhan pengguna, lalu merancang solusi yang berbasis data sebagai langkah awal untuk mengenali kondisi tidurnya sebelum berkonsultasi dengan medis. Kami menggunakan model klasifikasi sederhana untuk mengelompokkan pola tidur pengguna ke dalam kategori kondisi normal, insomnia, atau sleep apnea. Pengguna cukup mengakses web aplikasi, mengisi formulir, kemudian data akan diproses dan memberikan prediksi gangguan tidur serta saran untuk memperbaikinya.
+Aplikasi ini merupakan web berbasis Machine Learning yang dirancang untuk membantu pengguna mengenali potensi gangguan tidur seperti insomnia atau sleep apnea. Pengguna cukup mengisi data seperti durasi tidur, gejala yang dirasakan, dan kebiasaan harian. Sistem kemudian memproses data tersebut dan memberikan prediksi jenis gangguan tidur beserta saran perbaikan. Tujuannya adalah membantu pengguna lebih sadar akan kualitas tidurnya sebelum mengambil langkah medis lebih lanjut.
 
-Mengapa masalah ini harus diselesaikan:
-- Dampak Kesehatan yang Serius: Gangguan tidur yang tidak terdiagnosis dapat menyebabkan komplikasi kesehatan jangka panjang seperti hipertensi, stroke, dan depresi.
-- Keterbatasan Akses Diagnosis: Banyak orang tidak memiliki akses mudah ke sleep clinic atau spesialis tidur untuk diagnosis yang tepat.
-- Deteksi Dini: Sistem prediksi otomatis dapat membantu identifikasi risiko gangguan tidur berdasarkan gaya hidup dan karakteristik individu.
-- Efisiensi Biaya: Prediksi berbasis machine learning dapat mengurangi biaya diagnosis dan meningkatkan efisiensi sistem kesehatan.
-
-Daftar Referensi : 
-- Chen, et al. (2020). "The Impact of Physical Activity on Sleep Quality." Journal of Sleep Research, 29(3),1-10.
-- Sari, et al. (2022). "Kualitas Tidur dan Produktivitas Kerja di Sektor Industri." Jurnal Manajemen dan Bisnis,21(1), 89-97.
 
 ## Business Understanding
 

@@ -33,15 +33,19 @@ Frontend memberikan pengalaman pengguna yang mudah dan responsif, memungkinkan i
 Dalam folder 'Machine Learning NidraCare' terdiri dari beberapa file utama yang digunakan dalam proses pengemabngan dan pelatihan model machine learning untuk aplikasi NidraCare . Berikut adalah struktur dan deskripsi dari masing-masing file : 
 
 - (FIX)_Algoritma_ML_NidraCare.ipynb
+
    Notebook utama berisi seluruh tahapan proses machine learning, mulai dari eksplorasi data, preprocessing, pemodelan, hingga evaluasi model. Versi ini merupakan versi akhir dari algoritma yang sudah diperbaiki.
   
-- Algoritma_ML_Nidracare.py 
+- Algoritma_ML_Nidracare.py
+  
   Script Python yang berisi kode program untuk implementasi model machine learning dalam format `.py`. Digunakan untuk integrasi ke backend atau deployment.
 
-- NidraCare - ML.md  
+- NidraCare - ML.md
+  
   Dokumen berformat Markdown yang berisi dokumentasi khusus untuk bagian machine learning, mulai dari penjelasan algoritma yang digunakan, deskripsi dataset, proses training model, serta hasil evaluasi.
 
-- Sleep_health_and_lifestyle_data.csv  
+- Sleep_health_and_lifestyle_data.csv
+  
   Dataset utama yang digunakan dalam pengembangan model. Dataset ini berisi data pola tidur, gaya hidup, dan kondisi kesehatan pengguna.
 
 

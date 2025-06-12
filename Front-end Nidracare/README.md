@@ -44,9 +44,7 @@ Aplikasi NidraCare merupakan web berbasis Machine Learning yang dirancang untuk 
 
 ```plaintext
 nidracare
-├── .gitignore                # Mengabaikan file dan direktori dari Git
 ├── package.json              # Informasi dependensi proyek
-├── package-lock.json         # File lock untuk dependensi
 ├── postcss.config.js         # Konfigurasi untuk PostCSS
 ├── tailwind.config.js        # Konfigurasi untuk Tailwind CSS
 ├── README.md                 # Dokumentasi proyek

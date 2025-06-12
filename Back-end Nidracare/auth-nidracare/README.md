@@ -83,4 +83,15 @@ curl -X POST https://auth-nidracare.vercel.app/api/login \
   -d '{"username":"testuser","password":"testpass123"}'
 ```
 
+### Folder Structure:
+```
+└── 📁auth-nidracare                         
+    └── 📁api                                # Folder yang berisi endpoint API autentikasi
+        ├── login.js                          # Menangani login pengguna, mengautentikasi kredensial, dan menerbitkan token JWT.
+        └── register.js                       # Menangani pendaftaran pengguna baru, melakukan hashing password, dan menyimpan data pengguna.
+    ├── index.html                            # Menyediakan dokumentasi untuk API Autentikasi.
+    ├── package.json                          # Mendefinisikan metadata proyek dan mencantumkan daftar dependensi.
+    └── README.md                             # Menyediakan gambaran umum dan instruksi penggunaan untuk API Autentikasi.
+```
+
 For more endpoints or questions, contact the API maintainer.

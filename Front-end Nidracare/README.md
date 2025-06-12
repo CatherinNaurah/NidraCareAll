@@ -64,7 +64,8 @@ nidracare
     │   ├── utils             # Helper dan fungsi utilitas
     │   ├── config.js         # Konfigurasi skrip proyek
     │   ├── index.js          # Entry point aplikasi JavaScript
-    │   └── templates.js      # Template untuk komponen atau halaman
+    │   ├── templates.js      # Template untuk komponen atau halaman
+    │   └── sw.js             # Berkas Service Worker untuk PWA
     └── styles                # Direktori untuk file CSS
         └── styles.css        # Gaya umum aplikasi
 ```
